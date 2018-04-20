@@ -7,7 +7,7 @@ namespace CodingChallenge.Tests
     public class BinaryGapTests
     {
         [TestMethod]
-        public void SolutionTest()
+        public void BinaryGapSolutionTest()
         {
 
             var binaryGap = new BinaryGap();
