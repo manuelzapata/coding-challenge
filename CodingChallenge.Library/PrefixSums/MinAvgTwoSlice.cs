@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CodingChallenge.Library.PrefixSums2
+namespace CodingChallenge.Library.PrefixSums
 {
     public class MinAvgTwoSlice
     {

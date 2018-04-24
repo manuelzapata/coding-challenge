@@ -16,4 +16,8 @@
     <ProjectReference Include="..\CodingChallenge.Library\CodingChallenge.Library.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="PrefixSums2\" />
+  </ItemGroup>
+
 </Project>

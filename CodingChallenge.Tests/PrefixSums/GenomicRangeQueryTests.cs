@@ -1,10 +1,10 @@
-﻿using CodingChallenge.Library.PrefixSums2;
+﻿using CodingChallenge.Library.PrefixSums;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace CodingChallenge.Tests.PrefixSums2
+namespace CodingChallenge.Tests.PrefixSums
 {
 
     [TestClass]
